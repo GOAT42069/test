@@ -164,4 +164,4 @@ LuaMani is a search indexing tool. It does not host any files. All links are pro
 
 Made with 💜 by <a href="https://github.com/GOAT42069">GOAT42069</a>
 
-</div> ```
+</div>
